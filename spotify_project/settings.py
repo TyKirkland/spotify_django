@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'main_app',
     "corsheaders",
-    'gunicorn',
 ]
 
 MIDDLEWARE = [
